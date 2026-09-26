@@ -1,5 +1,4 @@
-# DSCI552-Fall2026
-USC DSCI 552: Machine Learning for Data Science (Fall 2026)  
+# DSCI552-Fall2026  
 
 Coursework repository for **USC DSCI 552: Machine Learning for Data Science (Fall 2026)**,
 taught by Prof. Mohammad Reza Rajati.
